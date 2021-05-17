@@ -1,1 +1,1 @@
-# SpringJDBSimple
+# SpringJDBCSimple
